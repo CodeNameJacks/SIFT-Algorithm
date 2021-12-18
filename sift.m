@@ -9,7 +9,7 @@ close all;
 clear all;
 % tic;
 % Applying SIFT on First Image 
-I=imread('lena256.png');
+I=imread('dog.jpg');
 I_read=imresize(I,[256 256]);
 I_enlarge=imresize(I_read,[512 512]);
 I=rgb2gray(I_enlarge);
