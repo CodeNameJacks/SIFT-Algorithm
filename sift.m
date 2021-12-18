@@ -1,7 +1,6 @@
 %% SIFT ALGORITHM with comparision 
 % Descrption: In this programe we compare keypoints and descriptors of two
-% images using SIFT algorithm implemented in Programe 'Vijay_ti_1.m'and
-% calculate the percentage match.
+% images using SIFT algorithm and calculate the percentage match.
 % Author: VIJAY ANAND
 %%
 clc;
