@@ -3,7 +3,7 @@
 % images using SIFT algorithm and calculate the percentage match.
 % Author: VIJAY ANAND
 % Citation: vijay anand (2021). SIFT( SCALE INVARIANT FEATURE TRANSFORM) https://www.mathworks.com/matlabcentral/fileexchange/43724-sift-scale-invariant-feature-transform),
-% MATLAB Central File Exchange. Retrieved December 17, 2021.
+% MATLAB Central File Exchange. Retrieved December 4, 2021.
 %%
 clc;
 close all;
